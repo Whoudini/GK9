@@ -1,0 +1,7 @@
+x 4/n punktów kontrolnych
+4pkt dla ka¿dej krzywej
+n-iloœæ krzywych
+
+ma byæ stworzona animacja
+zmieniamy wed³ug prawa okresowego(w czasie) wspó³Ÿêdne dla punktów kontrolnych
+("jakaœ fala czy coœ takiego")
